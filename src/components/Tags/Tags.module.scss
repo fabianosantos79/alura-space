@@ -1,4 +1,4 @@
-@import "../../styles/variaveis";
+@import '../../styles/variaveis';
 
 .tags {
   width: 65vw;
@@ -6,7 +6,7 @@
   justify-content: space-between;
   align-items: center;
   color: $cor-do-texto;
-  font-family: $fonte-normal;
+  font-family: 'GhandiSansRegular';
   font-size: 16px;
 
   p {

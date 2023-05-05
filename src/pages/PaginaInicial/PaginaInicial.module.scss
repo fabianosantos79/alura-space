@@ -1,5 +1,6 @@
 main {
     margin: 0 24px;
+    overflow-x: hidden; 
   }
   
   .principal {
@@ -26,12 +27,12 @@ main {
         height: 144px;
         top: 75px;
         left: 44px;
-        font-family: "GandhiSansBold";
+        font-family: "GhandiSansBold";
       }
     }
   }
 
-  .galeria {
+.galeria {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;

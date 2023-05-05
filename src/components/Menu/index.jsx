@@ -1,10 +1,10 @@
 import styles from './Menu.module.scss'
 import React from 'react'
-import homeIcon from '../../assets/icones/home-ativo.png'
-import curtidasIcon from '../../assets/icones/mais-curtidas-inativo.png'
-import vistasIcon from '../../assets/icones/mais-vistas-inativo.png'
-import novasIcon from '../../assets/icones/novas-inativo.png'
-import supreendaIcon from '../../assets/icones/surpreenda-me-inativo.png'
+import homeIcon from 'assets/icones/home-ativo.png'
+import curtidasIcon from 'assets/icones/mais-curtidas-inativo.png'
+import vistasIcon from 'assets/icones/mais-vistas-inativo.png'
+import novasIcon from 'assets/icones/novas-inativo.png'
+import supreendaIcon from 'assets/icones/surpreenda-me-inativo.png'
 
 export default function Menu() {
     return (
